@@ -1,0 +1,8 @@
+{
+  "name": " AI Guardian X",
+  "description": "Next-generation cybersecurity defense platform featuring Behaviour DNA, Deepfake Call detection, Privacy Twin, and Self-Healing OS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
